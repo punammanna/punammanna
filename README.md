@@ -17,5 +17,5 @@ Right now I am focusing on CI/CD, AWS, Docker, Kubernetes and improving my codin
 To become a DevOps / Cloud Engineer and work on real-world projects.
 
 📫 Connect with me  
-LinkedIn: (add your link here)  
-Email: (add your email)
+LinkedIn: https://www.linkedin.com/in/punam-manna-b11a59328/ 
+Email: work.punammannagmail.com
