@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 I'm Punam Manna  
 
-<!--
-**punammanna/punammanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Web Developer & DevOps Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy learning and building projects using Web Development and DevOps tools.  
+Right now I am focusing on CI/CD, AWS, Docker, Kubernetes and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack  
+- HTML | CSS | JavaScript | React  
+- Git & GitHub  
+- Jenkins (CI/CD)  
+- AWS (Basics)  
+- Linux | Command Line  
+- Docker & Kubernetes (Learning)
+
+ 🎯 Goals  
+To become a DevOps / Cloud Engineer and work on real-world projects.
+
+📫 Connect with me  
+LinkedIn: (add your link here)  
+Email: (add your email)
