@@ -9,8 +9,8 @@ Right now I am focusing on CI/CD, AWS, Docker, Kubernetes and improving my codin
 - HTML | CSS | JavaScript | React  
 - Git & GitHub  
 - Jenkins (CI/CD)  
-- AWS (Basics)  
-- Linux | Command Line  
+- AWS   
+- Linux 
 - Docker & Kubernetes (Learning)
 
  🎯 Goals  
