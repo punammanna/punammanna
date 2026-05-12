@@ -6,12 +6,13 @@ I enjoy learning and building projects using Web Development and DevOps tools.
 Right now I am focusing on CI/CD, AWS, Docker, Kubernetes and improving my coding skills.
 
 🔧 Tech Stack  
-- HTML | CSS | JavaScript | React  
 - Git & GitHub  
 - Jenkins (CI/CD)  
 - AWS   
 - Linux 
-- Docker & Kubernetes (Learning)
+- Docker & Kubernetes 
+-Terraform 
+- HTML | CSS | JavaScript | React  
 
  🎯 Goals  
 To become a DevOps / Cloud Engineer and work on real-world projects.
